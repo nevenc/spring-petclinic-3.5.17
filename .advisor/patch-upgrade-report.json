@@ -1,0 +1,263 @@
+{
+  "pom.xml" : {
+    "compile" : [ {
+      "coordinate" : "ch.qos.logback:logback-classic",
+      "oldVersion" : "1.2.12",
+      "newVersion" : "1.2.13",
+      "scope" : "compile"
+    }, {
+      "coordinate" : "ch.qos.logback:logback-core",
+      "oldVersion" : "1.2.12",
+      "newVersion" : "1.2.13",
+      "scope" : "compile"
+    }, {
+      "coordinate" : "io.micrometer:micrometer-core",
+      "oldVersion" : "1.9.17",
+      "newVersion" : "1.9.19",
+      "scope" : "compile"
+    }, {
+      "coordinate" : "org.apache.tomcat.embed:tomcat-embed-core",
+      "oldVersion" : "9.0.83",
+      "newVersion" : "9.0.123",
+      "scope" : "compile"
+    }, {
+      "coordinate" : "org.apache.tomcat.embed:tomcat-embed-el",
+      "oldVersion" : "9.0.83",
+      "newVersion" : "9.0.123",
+      "scope" : "compile"
+    }, {
+      "coordinate" : "org.apache.tomcat.embed:tomcat-embed-websocket",
+      "oldVersion" : "9.0.83",
+      "newVersion" : "9.0.123",
+      "scope" : "compile"
+    }, {
+      "coordinate" : "org.aspectj:aspectjweaver",
+      "oldVersion" : "1.9.7",
+      "newVersion" : "1.9.27",
+      "scope" : "compile"
+    }, {
+      "coordinate" : "org.attoparser:attoparser",
+      "oldVersion" : "2.0.5.RELEASE",
+      "newVersion" : "2.0.10.RELEASE",
+      "scope" : "compile"
+    }, {
+      "coordinate" : "org.ehcache:ehcache",
+      "oldVersion" : "3.10.8",
+      "newVersion" : "3.10.9",
+      "scope" : "compile"
+    }, {
+      "coordinate" : "org.hibernate.validator:hibernate-validator",
+      "oldVersion" : "6.2.5.Final",
+      "newVersion" : "6.2.6.Final",
+      "scope" : "compile"
+    }, {
+      "coordinate" : "org.jboss:jandex",
+      "oldVersion" : "2.4.2.Final",
+      "newVersion" : "2.4.5.Final",
+      "scope" : "compile"
+    }, {
+      "coordinate" : "org.springframework.boot:spring-boot",
+      "oldVersion" : "2.7.18",
+      "newVersion" : "2.7.35",
+      "scope" : "compile"
+    }, {
+      "coordinate" : "org.springframework.boot:spring-boot-actuator",
+      "oldVersion" : "2.7.18",
+      "newVersion" : "2.7.35",
+      "scope" : "compile"
+    }, {
+      "coordinate" : "org.springframework.boot:spring-boot-actuator-autoconfigure",
+      "oldVersion" : "2.7.18",
+      "newVersion" : "2.7.35",
+      "scope" : "compile"
+    }, {
+      "coordinate" : "org.springframework.boot:spring-boot-autoconfigure",
+      "oldVersion" : "2.7.18",
+      "newVersion" : "2.7.35",
+      "scope" : "compile"
+    }, {
+      "coordinate" : "org.springframework.boot:spring-boot-devtools",
+      "oldVersion" : "2.7.18",
+      "newVersion" : "2.7.35",
+      "scope" : "compile"
+    }, {
+      "coordinate" : "org.springframework.boot:spring-boot-starter",
+      "oldVersion" : "2.7.18",
+      "newVersion" : "2.7.35",
+      "scope" : "compile"
+    }, {
+      "coordinate" : "org.springframework.boot:spring-boot-starter-actuator",
+      "oldVersion" : "2.7.18",
+      "newVersion" : "2.7.35",
+      "scope" : "compile"
+    }, {
+      "coordinate" : "org.springframework.boot:spring-boot-starter-aop",
+      "oldVersion" : "2.7.18",
+      "newVersion" : "2.7.35",
+      "scope" : "compile"
+    }, {
+      "coordinate" : "org.springframework.boot:spring-boot-starter-cache",
+      "oldVersion" : "2.7.18",
+      "newVersion" : "2.7.35",
+      "scope" : "compile"
+    }, {
+      "coordinate" : "org.springframework.boot:spring-boot-starter-data-jpa",
+      "oldVersion" : "2.7.18",
+      "newVersion" : "2.7.35",
+      "scope" : "compile"
+    }, {
+      "coordinate" : "org.springframework.boot:spring-boot-starter-jdbc",
+      "oldVersion" : "2.7.18",
+      "newVersion" : "2.7.35",
+      "scope" : "compile"
+    }, {
+      "coordinate" : "org.springframework.boot:spring-boot-starter-json",
+      "oldVersion" : "2.7.18",
+      "newVersion" : "2.7.35",
+      "scope" : "compile"
+    }, {
+      "coordinate" : "org.springframework.boot:spring-boot-starter-logging",
+      "oldVersion" : "2.7.18",
+      "newVersion" : "2.7.35",
+      "scope" : "compile"
+    }, {
+      "coordinate" : "org.springframework.boot:spring-boot-starter-thymeleaf",
+      "oldVersion" : "2.7.18",
+      "newVersion" : "2.7.35",
+      "scope" : "compile"
+    }, {
+      "coordinate" : "org.springframework.boot:spring-boot-starter-tomcat",
+      "oldVersion" : "2.7.18",
+      "newVersion" : "2.7.35",
+      "scope" : "compile"
+    }, {
+      "coordinate" : "org.springframework.boot:spring-boot-starter-validation",
+      "oldVersion" : "2.7.18",
+      "newVersion" : "2.7.35",
+      "scope" : "compile"
+    }, {
+      "coordinate" : "org.springframework.boot:spring-boot-starter-web",
+      "oldVersion" : "2.7.18",
+      "newVersion" : "2.7.35",
+      "scope" : "compile"
+    }, {
+      "coordinate" : "org.springframework.data:spring-data-commons",
+      "oldVersion" : "2.7.18",
+      "newVersion" : "2.7.21",
+      "scope" : "compile"
+    }, {
+      "coordinate" : "org.springframework.data:spring-data-jpa",
+      "oldVersion" : "2.7.18",
+      "newVersion" : "2.7.21",
+      "scope" : "compile"
+    }, {
+      "coordinate" : "org.springframework:spring-aop",
+      "oldVersion" : "5.3.31",
+      "newVersion" : "5.3.50",
+      "scope" : "compile"
+    }, {
+      "coordinate" : "org.springframework:spring-aspects",
+      "oldVersion" : "5.3.31",
+      "newVersion" : "5.3.50",
+      "scope" : "compile"
+    }, {
+      "coordinate" : "org.springframework:spring-beans",
+      "oldVersion" : "5.3.31",
+      "newVersion" : "5.3.50",
+      "scope" : "compile"
+    }, {
+      "coordinate" : "org.springframework:spring-context",
+      "oldVersion" : "5.3.31",
+      "newVersion" : "5.3.50",
+      "scope" : "compile"
+    }, {
+      "coordinate" : "org.springframework:spring-context-support",
+      "oldVersion" : "5.3.31",
+      "newVersion" : "5.3.50",
+      "scope" : "compile"
+    }, {
+      "coordinate" : "org.springframework:spring-core",
+      "oldVersion" : "5.3.31",
+      "newVersion" : "5.3.50",
+      "scope" : "compile"
+    }, {
+      "coordinate" : "org.springframework:spring-expression",
+      "oldVersion" : "5.3.31",
+      "newVersion" : "5.3.50",
+      "scope" : "compile"
+    }, {
+      "coordinate" : "org.springframework:spring-jcl",
+      "oldVersion" : "5.3.31",
+      "newVersion" : "5.3.50",
+      "scope" : "compile"
+    }, {
+      "coordinate" : "org.springframework:spring-jdbc",
+      "oldVersion" : "5.3.31",
+      "newVersion" : "5.3.50",
+      "scope" : "compile"
+    }, {
+      "coordinate" : "org.springframework:spring-orm",
+      "oldVersion" : "5.3.31",
+      "newVersion" : "5.3.50",
+      "scope" : "compile"
+    }, {
+      "coordinate" : "org.springframework:spring-tx",
+      "oldVersion" : "5.3.31",
+      "newVersion" : "5.3.50",
+      "scope" : "compile"
+    }, {
+      "coordinate" : "org.springframework:spring-web",
+      "oldVersion" : "5.3.31",
+      "newVersion" : "5.3.50",
+      "scope" : "compile"
+    }, {
+      "coordinate" : "org.springframework:spring-webmvc",
+      "oldVersion" : "5.3.31",
+      "newVersion" : "5.3.50",
+      "scope" : "compile"
+    }, {
+      "coordinate" : "org.unbescape:unbescape",
+      "oldVersion" : "1.1.6.RELEASE",
+      "newVersion" : "1.1.8.RELEASE",
+      "scope" : "compile"
+    } ],
+    "provided" : [ {
+      "coordinate" : "org.postgresql:postgresql",
+      "oldVersion" : "42.3.8",
+      "newVersion" : "42.3.10",
+      "scope" : "provided"
+    } ],
+    "runtime" : [ {
+      "coordinate" : "org.postgresql:postgresql",
+      "oldVersion" : "42.3.8",
+      "newVersion" : "42.3.10",
+      "scope" : "runtime"
+    } ],
+    "test" : [ {
+      "coordinate" : "org.skyscreamer:jsonassert",
+      "oldVersion" : "1.5.1",
+      "newVersion" : "1.5.3",
+      "scope" : "test"
+    }, {
+      "coordinate" : "org.springframework.boot:spring-boot-starter-test",
+      "oldVersion" : "2.7.18",
+      "newVersion" : "2.7.35",
+      "scope" : "test"
+    }, {
+      "coordinate" : "org.springframework.boot:spring-boot-test",
+      "oldVersion" : "2.7.18",
+      "newVersion" : "2.7.35",
+      "scope" : "test"
+    }, {
+      "coordinate" : "org.springframework.boot:spring-boot-test-autoconfigure",
+      "oldVersion" : "2.7.18",
+      "newVersion" : "2.7.35",
+      "scope" : "test"
+    }, {
+      "coordinate" : "org.springframework:spring-test",
+      "oldVersion" : "5.3.31",
+      "newVersion" : "5.3.50",
+      "scope" : "test"
+    } ]
+  }
+}
